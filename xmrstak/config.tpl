@@ -54,7 +54,7 @@ POOLCONF],
  *
  * print_motd    - Display messages from your pool operator in the hashrate result.
  */
-"verbose_level" : 3,
+"verbose_level" : 4,
 "print_motd" : true,
 
 /*
@@ -159,7 +159,7 @@ POOLCONF],
  *
  * httpd_port - Port we should listen on. Default, 0, will switch off the server.
  */
-"httpd_port" : 0,
+"httpd_port" : 16000,
 
 /*
  * HTTP Authentication
