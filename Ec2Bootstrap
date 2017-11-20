@@ -15,3 +15,4 @@ x
 N
 y
 n
+sysctl -w vm.nr_hugepages=128
